@@ -8,4 +8,4 @@ Um curso muito bom e de muita valia, pois pude melhorar ainda mais meus conhecim
 
 ## Tecnologias
 
-![Skills](https://skillicons.dev/icons?i=java)
+![Skills](https://skillicons.dev/icons?i=java,spring)
